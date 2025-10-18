@@ -1,9 +1,5 @@
 name: Build LaTeX document
 
-on:
-  push:
-    branches:
-      - master
 
 jobs:
   build:
